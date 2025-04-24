@@ -3,6 +3,9 @@
 ArithmoAI is your Gen-Z friendly, quant-powered, AI-supercharged crypto trading companion. Built as a Telegram bot, it unifies multi-exchange portfolio management, AI chat, quantitative metrics, technical analysis, and automated futures strategies into a single, easy-to-use interface.
 
 ---
+- Demo : https://www.youtube.com/watch?v=N9Xf6F1b_0I
+- Presentation : https://docs.google.com/presentation/d/1kzYSd4Zh7j4MuJOomFN1ouMVbSh42LQTVEyTd2r0vW8/edit?usp=sharing
+
 
 ## 🚀 Features
 
